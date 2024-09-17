@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/frz_gg" target="blank"><img src="https://img.shields.io/twitter/follow/frz_gg?logo=twitter&style=for-the-badge" alt="frz_gg" /></a> </p>
 
-- 🔭 I’m currently working on [Nolife Clothing](https://www.nolife-clothing.fr)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **React Native**
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/frz_gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frz_gg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sébastien-lefevre-2427b11b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sébastien-lefevre-2427b11b1/" height="30" width="40" /></a>
 <a href="https://discord.gg/FRZ#1155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FRZ#1155" height="30" width="40" /></a>
 </p>

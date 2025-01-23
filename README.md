@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **VueJs**
 
 - 📫 How to reach me **sebastienlfv.pro@gmail.com**
 
